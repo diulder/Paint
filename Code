@@ -1,0 +1,51 @@
+from turtle import *
+shape("turtle")
+
+begin_fill()
+
+
+fillcolor("Red")
+
+color("Red")
+
+pensize(3)
+
+color("Yellow")
+
+forward(150)
+
+
+
+left(90)
+
+forward(50)
+
+left(90)
+
+forward(150)
+
+left(90)
+
+end_fill()
+
+forward(50)
+        
+left(90)
+
+forward(50)
+
+right(90)
+
+begin_fill()
+
+forward(20)
+
+circle(23)
+
+
+
+def new_func():
+    penup()
+
+new_func()
+#This code very eazy
